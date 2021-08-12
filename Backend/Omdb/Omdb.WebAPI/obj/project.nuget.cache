@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4EL2yqkOHVq9QSbHIri/owEllmyhwi/ooZPN3CrZeVV7LpLrarWatl7w6FGAkLoy9/d5unxWnfzyE2Cv/fY+LQ==",
+  "dgSpecHash": "HE5wltfA2/MxvuSeBQh6IPN9C8HMk/hTS2XtfKSbWDg7l1caPXRA//G8Ffpr++ItzPL/bI2tTPGRNMedGbjb3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\botart2\\source\\repos\\Omdb\\Omdb.WebAPI\\Omdb.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\botart2\\Desktop\\Last\\Omdb\\Backend\\Omdb\\Omdb.WebAPI\\Omdb.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\botart2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\botart2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

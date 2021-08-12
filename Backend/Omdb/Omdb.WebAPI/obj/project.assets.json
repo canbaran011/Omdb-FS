@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\botart2\\source\\repos\\Omdb\\Omdb.WebAPI\\Omdb.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\botart2\\Desktop\\Last\\Omdb\\Backend\\Omdb\\Omdb.WebAPI\\Omdb.WebAPI.csproj",
       "projectName": "Omdb.WebAPI",
-      "projectPath": "C:\\Users\\botart2\\source\\repos\\Omdb\\Omdb.WebAPI\\Omdb.WebAPI.csproj",
+      "projectPath": "C:\\Users\\botart2\\Desktop\\Last\\Omdb\\Backend\\Omdb\\Omdb.WebAPI\\Omdb.WebAPI.csproj",
       "packagesPath": "C:\\Users\\botart2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\botart2\\source\\repos\\Omdb\\Omdb.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\botart2\\Desktop\\Last\\Omdb\\Backend\\Omdb\\Omdb.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\botart2\\AppData\\Roaming\\NuGet\\NuGet.Config",
