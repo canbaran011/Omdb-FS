@@ -1,0 +1,12 @@
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\bin\Debug\net5.0\Omdb.DAL.deps.json
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\bin\Debug\net5.0\Omdb.DAL.dll
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\bin\Debug\net5.0\ref\Omdb.DAL.dll
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\bin\Debug\net5.0\Omdb.DAL.pdb
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\obj\Debug\net5.0\Omdb.DAL.csproj.AssemblyReference.cache
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\obj\Debug\net5.0\Omdb.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\obj\Debug\net5.0\Omdb.DAL.AssemblyInfoInputs.cache
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\obj\Debug\net5.0\Omdb.DAL.AssemblyInfo.cs
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\obj\Debug\net5.0\Omdb.DAL.csproj.CoreCompileInputs.cache
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\obj\Debug\net5.0\Omdb.DAL.dll
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\obj\Debug\net5.0\ref\Omdb.DAL.dll
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.DAL\obj\Debug\net5.0\Omdb.DAL.pdb

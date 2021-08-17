@@ -1,0 +1,15 @@
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\bin\Debug\net5.0\Omdb.Entities.deps.json
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\bin\Debug\net5.0\Omdb.Entities.runtimeconfig.json
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\bin\Debug\net5.0\Omdb.Entities.runtimeconfig.dev.json
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\bin\Debug\net5.0\Omdb.Entities.dll
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\bin\Debug\net5.0\ref\Omdb.Entities.dll
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\bin\Debug\net5.0\Omdb.Entities.pdb
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\Omdb.Entities.csproj.AssemblyReference.cache
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\Omdb.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\Omdb.Entities.AssemblyInfoInputs.cache
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\Omdb.Entities.AssemblyInfo.cs
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\Omdb.Entities.csproj.CoreCompileInputs.cache
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\Omdb.Entities.dll
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\ref\Omdb.Entities.dll
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\Omdb.Entities.pdb
+C:\Users\botart2\Desktop\Last\Omdb\Backend\Omdb\Omdb.Entities\obj\Debug\net5.0\Omdb.Entities.genruntimeconfig.cache
