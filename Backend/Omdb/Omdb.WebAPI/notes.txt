@@ -1,1 +1,2 @@
 ﻿- change generic architecture this weekend
+- add new jwt
